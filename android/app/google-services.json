@@ -1,0 +1,89 @@
+{
+  "project_info": {
+    "project_number": "50068495581",
+    "firebase_url": "https://primal-fm-a9bb1.firebaseio.com",
+    "project_id": "primal-fm-a9bb1",
+    "storage_bucket": "primal-fm-a9bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50068495581:android:26dcf678d31df516e40f34",
+        "android_client_info": {
+          "package_name": "com.example.primal_fm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50068495581-jct2q0tmvukj630c9fp3otl44ckgt0p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8e4Kn4aLdM2KXlRSMxiP5f-g9xIVXK6U"
+        },
+        {
+          "current_key": "AIzaSyDX8TFsTN-KzAPB3xWDkZHOl1hT6qeueXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50068495581-jct2q0tmvukj630c9fp3otl44ckgt0p8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50068495581-eo2tbak9bei68eqrrverd7jiqmp78hvv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.primal.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50068495581:android:b4df70312b6114a6e40f34",
+        "android_client_info": {
+          "package_name": "primalfm.radio.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50068495581-jct2q0tmvukj630c9fp3otl44ckgt0p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8e4Kn4aLdM2KXlRSMxiP5f-g9xIVXK6U"
+        },
+        {
+          "current_key": "AIzaSyDX8TFsTN-KzAPB3xWDkZHOl1hT6qeueXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50068495581-jct2q0tmvukj630c9fp3otl44ckgt0p8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50068495581-eo2tbak9bei68eqrrverd7jiqmp78hvv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.primal.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
